@@ -1,0 +1,14 @@
+[
+    {
+        "id": "P2",
+        "nombre": "PANTAL\u00d3N JEANS",
+        "cantidad": 50,
+        "precio": 39.5
+    },
+    {
+        "id": "P3",
+        "nombre": "ZAPATILLAS",
+        "cantidad": 15,
+        "precio": 50.25
+    }
+]
